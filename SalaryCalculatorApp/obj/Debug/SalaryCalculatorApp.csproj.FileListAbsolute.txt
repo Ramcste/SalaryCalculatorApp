@@ -1,0 +1,8 @@
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe.config
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\bin\Debug\SalaryCalculatorApp.pdb
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.SalaryCalculator.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.exe
+C:\Users\Web App Develop .Net\Desktop\Lab Practice\SalaryCalculatorApp\SalaryCalculatorApp\obj\Debug\SalaryCalculatorApp.pdb
